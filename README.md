@@ -1,4 +1,4 @@
-Hi, I’m @Muurz
+Hi, I’m @Mo0ns
 I’m interested in programming!
-I’m currently learning cpp
-You can reach me on discord, Murz#5725!
+I’m currently learning c#
+You can reach me on discord, coolKids#3583!
