@@ -5,8 +5,12 @@
 <br>
 <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=chaannce&label=Profile%20views&color=0e75b6&style=flat" alt="chaannce" /> </p>
 
-## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaannce&&theme=algolia" alt="chaannce" /></p>
+## 💼 Working On
+<p align="center">
+    <a href="https://github.com/Chaannce/Webhook-Spammer">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaannce&repo=Webhook-Spammer&theme=transparent">
+    </a>
+</p>
 
 
 ## 🛠️ My Skills
@@ -61,10 +65,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaannce&show_icons=true&locale=en&count_private=true&theme=algolia" alt="chaannce" height="192px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaannce&show_icons=true&locale=en&count_private=true&theme=transparent" alt="chaannce" height="192px"/>
 <br/>
   &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaannce&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chaannce" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaannce&show_icons=true&locale=en&layout=compact&theme=transparent" alt="chaannce" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
