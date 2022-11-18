@@ -3,7 +3,7 @@
 <hr/>
 <h4 align="center">I am a self-taught developer who loves to program, script, and reverse engineer! I am currently learning C#, once I learn C# I plan to learn C! I also enjoy cycling, fishing, and swimming.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chaannce&label=Profile%20views&color=0e75b6&style=flat" alt="chaannce" /> </p>
+<p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=chaannce&label=Profile%20views&color=0e75b6&style=flat" alt="chaannce" /> </p>
 
 ## 🔥 Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaannce&&theme=algolia" alt="chaannce" /></p>
@@ -77,7 +77,7 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:not_available_yet"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Chaannce"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
