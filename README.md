@@ -77,10 +77,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:not_available_yet"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<b>Make Sure If You Send Me A Email To Put Down A Discord Username!</b><br/>
+	<a href="mailto:chance@chaance.cf"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Chaannce"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
 </p>
 
 <hr/>
