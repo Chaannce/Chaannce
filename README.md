@@ -7,6 +7,7 @@
 
 ## 💼 Working On
 <p align="center">
+    Nothing currently, other than little projects, I may start working on my Webhook-Spammer again.
     <a href="https://github.com/Chaannce/Webhook-Spammer">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chaannce&repo=Webhook-Spammer&theme=transparent">
     </a>
