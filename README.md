@@ -23,21 +23,21 @@
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
   </a>
+   &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Scripting Languages
 
 <p align="left">
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://www.php.net/">
+  <a href="https://www.lua.org">
     <img alt="Luau" src="https://img.shields.io/badge/Lua/Luau-2C2D72?logo=lua&logoColor=white"/>
   </a>
 </p>
